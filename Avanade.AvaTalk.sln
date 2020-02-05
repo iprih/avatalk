@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avanade.AvaTalk.WebApi", "Avanade.AvaTalk.WebApi\Avanade.AvaTalk.WebApi.csproj", "{30033D2F-3F4D-497B-B81C-926F8066B061}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avanade.AvaTalk.Manager", "Avanade.AvaTalk.Manager\Avanade.AvaTalk.Manager.csproj", "{BC99703A-5BE6-4D4B-A7AA-7F5F616E4BC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avanade.AvaTalk.Repository", "Avanade.AvaTalk.Repository\Avanade.AvaTalk.Repository.csproj", "{382AC651-01D1-4611-9228-07584450B273}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avanade.AvaTalk.Entity", "Avanade.AvaTalk.Entity\Avanade.AvaTalk.Entity.csproj", "{5BFBBC88-1646-41B0-8697-2DC029A64617}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30033D2F-3F4D-497B-B81C-926F8066B061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30033D2F-3F4D-497B-B81C-926F8066B061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30033D2F-3F4D-497B-B81C-926F8066B061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30033D2F-3F4D-497B-B81C-926F8066B061}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC99703A-5BE6-4D4B-A7AA-7F5F616E4BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC99703A-5BE6-4D4B-A7AA-7F5F616E4BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC99703A-5BE6-4D4B-A7AA-7F5F616E4BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC99703A-5BE6-4D4B-A7AA-7F5F616E4BC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{382AC651-01D1-4611-9228-07584450B273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{382AC651-01D1-4611-9228-07584450B273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{382AC651-01D1-4611-9228-07584450B273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{382AC651-01D1-4611-9228-07584450B273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BFBBC88-1646-41B0-8697-2DC029A64617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BFBBC88-1646-41B0-8697-2DC029A64617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BFBBC88-1646-41B0-8697-2DC029A64617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BFBBC88-1646-41B0-8697-2DC029A64617}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3714588E-9616-4E8D-941E-104F3967DEF3}
+	EndGlobalSection
+EndGlobal

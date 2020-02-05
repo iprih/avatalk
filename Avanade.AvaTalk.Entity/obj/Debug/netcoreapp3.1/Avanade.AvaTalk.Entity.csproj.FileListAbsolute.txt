@@ -1,0 +1,8 @@
+C:\Users\Avanade\Documents\AvaTalk\Avanade.AvaTalk\Avanade.AvaTalk.Entity\bin\Debug\netcoreapp3.1\Avanade.AvaTalk.Entity.deps.json
+C:\Users\Avanade\Documents\AvaTalk\Avanade.AvaTalk\Avanade.AvaTalk.Entity\bin\Debug\netcoreapp3.1\Avanade.AvaTalk.Entity.dll
+C:\Users\Avanade\Documents\AvaTalk\Avanade.AvaTalk\Avanade.AvaTalk.Entity\bin\Debug\netcoreapp3.1\Avanade.AvaTalk.Entity.pdb
+C:\Users\Avanade\Documents\AvaTalk\Avanade.AvaTalk\Avanade.AvaTalk.Entity\obj\Debug\netcoreapp3.1\Avanade.AvaTalk.Entity.csprojAssemblyReference.cache
+C:\Users\Avanade\Documents\AvaTalk\Avanade.AvaTalk\Avanade.AvaTalk.Entity\obj\Debug\netcoreapp3.1\Avanade.AvaTalk.Entity.AssemblyInfoInputs.cache
+C:\Users\Avanade\Documents\AvaTalk\Avanade.AvaTalk\Avanade.AvaTalk.Entity\obj\Debug\netcoreapp3.1\Avanade.AvaTalk.Entity.AssemblyInfo.cs
+C:\Users\Avanade\Documents\AvaTalk\Avanade.AvaTalk\Avanade.AvaTalk.Entity\obj\Debug\netcoreapp3.1\Avanade.AvaTalk.Entity.dll
+C:\Users\Avanade\Documents\AvaTalk\Avanade.AvaTalk\Avanade.AvaTalk.Entity\obj\Debug\netcoreapp3.1\Avanade.AvaTalk.Entity.pdb

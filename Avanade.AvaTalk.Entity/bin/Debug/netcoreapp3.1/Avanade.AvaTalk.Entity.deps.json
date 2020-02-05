@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Avanade.AvaTalk.Entity/1.0.0": {
+        "runtime": {
+          "Avanade.AvaTalk.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Avanade.AvaTalk.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

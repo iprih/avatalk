@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Avanade.AvaTalk.Manager/1.0.0": {
+        "dependencies": {
+          "Avanade.AvaTalk.Entity": "1.0.0",
+          "Avanade.AvaTalk.Repository": "1.0.0"
+        },
+        "runtime": {
+          "Avanade.AvaTalk.Manager.dll": {}
+        }
+      },
+      "Avanade.AvaTalk.Entity/1.0.0": {
+        "runtime": {
+          "Avanade.AvaTalk.Entity.dll": {}
+        }
+      },
+      "Avanade.AvaTalk.Repository/1.0.0": {
+        "dependencies": {
+          "Avanade.AvaTalk.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Avanade.AvaTalk.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Avanade.AvaTalk.Manager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Avanade.AvaTalk.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Avanade.AvaTalk.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
